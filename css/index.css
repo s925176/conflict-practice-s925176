@@ -34,7 +34,7 @@ a:hover{
 	position: absolute;
 	width:0; height:0;
 	margin: auto;
-	top:0; bottom:0; left:0; right:0;
+	top:0; bottom:0; left:0; right:1;
 }
 #intro > #intro_background, #outro > #outro_background{
 	display: block;
